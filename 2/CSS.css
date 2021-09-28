@@ -1,0 +1,18 @@
+h1 {
+    position: relative;
+    left: 800px ;
+}
+body { background-color:rgb(0, 67, 253) ;}
+table td,tr{   
+ background: linear-gradient(to top, #b3ff00b4, #f1d536);
+        padding: 11px;
+        border: 2px solid #333; } 
+        div {
+            background: linear-gradient(rgb(255, 0, 0), blue); 
+           }
+           div > h1 {
+            font-size: 3rem; 
+            margin: 35; 
+            background: rgb(0, 255, 128); 
+                    mix-blend-mode: screen; }  
+   
